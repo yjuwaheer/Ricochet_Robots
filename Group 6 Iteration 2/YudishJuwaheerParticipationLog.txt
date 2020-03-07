@@ -1,0 +1,1 @@
+I, Yudish Juwaheer, confirm that I participated in Iteration 2 of Ricochet Robots Project. I was responsible in completing the "Use Case Description: Vision Assist" and "Sequence Diagram: Vision Assist". After completion, feedback was given by my teammates to refine the work for final submission. I also coded certain classes for the second iteration.

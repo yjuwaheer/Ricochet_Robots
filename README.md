@@ -20,18 +20,28 @@ players.
 
 ##### The Main Menu:
 ![MainMenu](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Main%20Menu.png)
-
+----------------------------------------------
 ##### Setting up a Game:
 ![Setup](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Setting%20Up%20a%20Game.png)
-
+----------------------------------------------
 ##### Simple Board:
 ![Simple](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Board.png)
-
+----------------------------------------------
 ##### Simple Board with Vision Assist:
 ![SimpleAssist](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Colour%20Vision%20Assistance%20Board.png)
-
-##### Conplex Board:
+----------------------------------------------
+##### Complex Board:
 ![Complex](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Board.png)
-
-##### Complex Board with Cision Assist:
+----------------------------------------------
+##### Complex Board with Vision Assist:
 ![ComplexAssist](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Colour%20Vision%20Assistance%20Board.png)
+
+----------------------------------------------
+> Enjoy the Game :grin: :+1:
+```java
+private void enjoy(satisfy) {
+  if(satisfy) {
+    System.println.out("Enjoy the Game.")
+  }
+}
+```

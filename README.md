@@ -15,3 +15,23 @@ We attempted to recreate this board game with two types of pre-programmed
 board (a Simple and a Complex Board). We managed to make the interface as
 easy as possible to use and we also catered for possible vision-impaired
 players.
+
+#### Some screenshots of our version of Ricochet Robots:
+
+##### The Main Menu:
+![MainMenu](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Main%20Menu.png)
+
+##### Setting up a Game:
+![Setup](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Setting%20Up%20a%20Game.png)
+
+##### Simple Board:
+![Simple](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Board.png)
+
+##### Simple Board with Vision Assist:
+![SimpleAssist](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Colour%20Vision%20Assistance%20Board.png)
+
+##### Conplex Board:
+![Complex](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Board.png)
+
+##### Complex Board with Cision Assist:
+![ComplexAssist](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Colour%20Vision%20Assistance%20Board.png)

@@ -19,22 +19,22 @@ players.
 #### Some screenshots of our version of Ricochet Robots:
 
 ##### The Main Menu:
-![MainMenu](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Main%20Menu.png)
+![MainMenu](https://github.com/yjuwaheer/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Main%20Menu.png)
 ----------------------------------------------
 ##### Setting up a Game:
-![Setup](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Setting%20Up%20a%20Game.png)
+![Setup](https://github.com/yjuwaheer/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Setting%20Up%20a%20Game.png)
 ----------------------------------------------
 ##### Simple Board:
-![Simple](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Board.png)
+![Simple](https://github.com/yjuwaheer/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Board.png)
 ----------------------------------------------
 ##### Simple Board with Vision Assist:
-![SimpleAssist](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Colour%20Vision%20Assistance%20Board.png)
+![SimpleAssist](https://github.com/yjuwaheer/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Simple%20Colour%20Vision%20Assistance%20Board.png)
 ----------------------------------------------
 ##### Complex Board:
-![Complex](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Board.png)
+![Complex](https://github.com/yjuwaheer/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Board.png)
 ----------------------------------------------
 ##### Complex Board with Vision Assist:
-![ComplexAssist](https://github.com/briannamcdonald/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Colour%20Vision%20Assistance%20Board.png)
+![ComplexAssist](https://github.com/yjuwaheer/comp2005-winter20-group6/blob/master/Group%206%20Iteration%204/Screenshots%20and%20Recordings/Complex%20Colour%20Vision%20Assistance%20Board.png)
 
 ----------------------------------------------
 > Enjoy the Game :grin: :+1:
